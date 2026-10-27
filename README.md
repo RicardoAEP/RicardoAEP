@@ -29,7 +29,7 @@ React · TypeScript · JavaScript · Angular · Tailwind CSS · HTML5 · CSS3
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="48" height="48" alt="VB.NET" />
 </p>
 
-C# · .NET · ASP.NET · Ruby · Ruby on Rails (RoR) · VB.NET · REST APIs
+C# · .NET · ASP.NET · Ruby · Ruby on Rails · VB.NET · REST APIs
 
 <br>
 
@@ -47,10 +47,11 @@ Microsoft SQL Server · MySQL
 **Tools & Practices**
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="48" height="48" alt="Azure DevOps" />
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&theme=dark" alt="Development Tools" />
 </p>
 
-Git · GitHub · Visual Studio · VS Code · Clean Architecture · xUnit
+Azure DevOps · Git · GitHub · Visual Studio · VS Code · Clean Architecture · xUnit
 
 ---
 
